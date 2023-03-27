@@ -1,0 +1,8 @@
+.cardContainer {
+  background: #ffffff;
+  box-shadow: inset 0px 2px 0px rgba(0, 0, 0, 0.05),
+    inset 0px -2px 0px rgba(0, 0, 0, 0.15);
+  border-radius: 4px;
+  padding: 12px;
+  margin-bottom: 12px;
+}

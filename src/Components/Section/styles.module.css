@@ -1,0 +1,16 @@
+.section {
+  /* width: 100%; */
+  /* display: flex;
+  flex-direction: column;
+  border: 1px solid #c9d2ce;
+  border-radius: 3px 3px 0px 0px;
+  margin-left: 26px;
+  padding: 0 10px;
+  overflow: auto; */
+}
+
+.sectionHeader {
+  color: #414644;
+  font-weight: 500;
+  font-size: 14px;
+}
