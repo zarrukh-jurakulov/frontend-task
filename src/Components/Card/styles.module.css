@@ -6,3 +6,25 @@
   padding: 12px;
   margin-bottom: 12px;
 }
+
+.header {
+  font-weight: 600;
+  font-size: 14px;
+  color: #181a19;
+}
+
+.description {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  color: #6d7471;
+  margin-top: 4px;
+}
+
+.infoContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: row;
+  margin-top: 8px;
+}
